@@ -1,2 +1,8 @@
 pandas
 matplotlib
+numpy
+scipy
+scikit-learn
+pyarrow
+ipykernel
+contextily
